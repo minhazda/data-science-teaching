@@ -13,9 +13,10 @@ MSc Data Science (Merit) — University of Greenwich
 | Notebook | Topic | Level |
 |---|---|---|
 | [01 — Introduction to Time-Series Forecasting](./01_intro_time_series_forecasting.ipynb) | Synthetic data, Linear Regression, train-test split | Beginner |
+| [02 — Feature Engineering for Time-Series](./02_feature_engineering_for_time_series.ipynb) | Lag features, rolling windows, feature leakage | Intermediate |
+| 03 — Tree-Based Models and ROCV | Random Forest, XGBoost, Rolling-Origin Cross-Validation | Intermediate–Advanced |
 
-*More notebooks coming soon: Random Forest, XGBoost,
-Rolling-Origin Cross-Validation.*
+*Notebook 03 coming soon.*
 
 ---
 
@@ -34,10 +35,11 @@ These teaching materials connect directly to published research:
 
 ---
 
-## For Hiring Committees & PhD Supervisors
+## For Hiring Committees and PhD Supervisors
 
 This repository demonstrates my approach to data science
 pedagogy: connecting research-grade methods to
-beginner-accessible teaching materials.
+beginner-accessible teaching materials, with a clear
+progression from foundational concepts to deployed systems.
 
-My CV is available here: [Rahman_CV_2026.pdf](./Rahman_CV_2026.pdf)
+My CV: [Rahman_CV_2026.pdf](./Rahman_CV_2026.pdf)
