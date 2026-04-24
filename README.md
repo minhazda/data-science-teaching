@@ -42,4 +42,4 @@ pedagogy: connecting research-grade methods to
 beginner-accessible teaching materials, with a clear
 progression from foundational concepts to deployed systems.
 
-My CV: [Rahman_CV_2026.pdf](./Rahman_CV_2026.pdf)
+My CV: [Rahman_CV_2026.pdf](https://github.com/minhazda/data-science-teaching/raw/main/Rahman_CV.pdf)
