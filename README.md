@@ -1,7 +1,9 @@
-# Data Science Teaching Materials
+# Applied Time-Series Forecasting Tutorials
 
-Teaching notebooks, tutorials, and resources developed
-for undergraduate data science education in Bangladesh.
+Three hands-on notebooks that build from a first forecasting model to
+tree ensembles evaluated with Rolling-Origin Cross-Validation — originally
+developed as teaching material, kept here as the readable companion to my
+research and production forecasting repos.
 
 **Author:** Md Minhazur Rahman
 MSc Data Science (Merit) — University of Greenwich
@@ -52,11 +54,12 @@ published MSc dissertation research:
 
 ---
 
-## For Hiring Committees and PhD Supervisors
+## Why this repo exists
 
-This repository demonstrates my approach to data science
-pedagogy — connecting research-grade methods to
-beginner-accessible teaching materials with a clear
-progression from foundational concepts to deployed systems.
+Explaining a method clearly is part of doing it well. These notebooks take the
+research-grade methods from my forecasting work (lag features, leakage
+prevention, Rolling-Origin CV) and present them so a beginner can follow the
+progression from first model to deployed system — the same communication I'd
+bring to design docs and analysis write-ups on a team.
 
-My CV: [Rahman_CV_2026.pdf](https://github.com/minhazda/data-science-teaching/raw/main/Rahman_CV.pdf)
+My CV: [Rahman_CV.pdf](./Rahman_CV.pdf) · Portfolio: [github.com/minhazda](https://github.com/minhazda)
